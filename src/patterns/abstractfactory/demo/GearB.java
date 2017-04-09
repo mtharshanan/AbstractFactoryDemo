@@ -1,4 +1,4 @@
-package com.mahendra.demo;
+package patterns.abstractfactory.demo;
 
 public class GearB extends Gear {
 

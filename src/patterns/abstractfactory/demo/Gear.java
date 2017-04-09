@@ -1,6 +1,6 @@
-package com.mahendra.demo;
+package patterns.abstractfactory.demo;
 
-public abstract class Color {
+public abstract class Gear {
 	@Override
 	public String toString() {
 		return "" + getClass();
